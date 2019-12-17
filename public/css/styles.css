@@ -1,0 +1,22 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.navbar {
+  background-color: #093A5C;
+  color: #E8ECEF;
+  padding: 50px;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #E8ECEF;
+  background-color: #093A5C;
+}

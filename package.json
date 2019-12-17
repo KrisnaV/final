@@ -1,0 +1,19 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "Scheduler",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krisna Vong",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.7",
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "unirest": "^0.6.0"
+  }
+}
